@@ -23,7 +23,7 @@
     "**/*.ts",
     "**/*.tsx",
     "**/*.spec.tsx"
-  ],
+, "src/pages/slice-simulator.tsx"  ],
   "exclude": [
     "node_modules"
   ]

@@ -1,0 +1,86 @@
+{
+  "slices": {
+    "components": {
+      "blog_post2": {
+        "library": "slices",
+        "id": "blog_post2",
+        "name": "BlogPost2",
+        "description": "BlogPost2",
+        "model": {
+          "id": "blog_post2",
+          "type": "SharedSlice",
+          "name": "BlogPost2",
+          "description": "BlogPost2",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "BlogPost2",
+              "primary": {},
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {}
+            ],
+            "primary": {},
+            "slice_type": "blog_post2"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      },
+      "blog_posts": {
+        "library": "slices",
+        "id": "blog_posts",
+        "name": "BlogPosts",
+        "description": "BlogPosts",
+        "model": {
+          "id": "blog_posts",
+          "type": "SharedSlice",
+          "name": "BlogPosts",
+          "description": "BlogPosts",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "BlogPosts",
+              "primary": {},
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {}
+            ],
+            "primary": {},
+            "slice_type": "blog_posts"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      }
+    }
+  }
+}

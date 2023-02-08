@@ -1,0 +1,27 @@
+{
+  "_cts": {
+    "posts": {
+      "content": {
+        "body": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    },
+    "posts2": {}
+  },
+  "slices": {
+    "BlogPosts": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "BlogPost2": {
+      "default": {
+        "primary": {}
+      }
+    }
+  }
+}
